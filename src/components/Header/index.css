@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.image-container {
+  display: flex;
+  align-items: center;
+}
+.links-container {
+  display: flex;
+  margin-left: auto;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.image {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+.image-name {
+  font-size: 25px;
+  font-weight: bold;
+}
+.nav-link {
+  padding: 10px;
+}

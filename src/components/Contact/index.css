@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.body-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contact-name {
+  font-size: 60px;
+}
